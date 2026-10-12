@@ -1,0 +1,210 @@
+1 2026-10-12 21:28:06 MAIN Gateway started (TCP base port 1234, HTTP port 8080)
+2 2026-10-12 21:28:06 CONN Connection manager thread started
+3 2026-10-12 21:28:06 DATA Data manager thread started
+4 2026-10-12 21:28:06 STOR Storage manager thread started
+5 2026-10-12 21:28:06 STOR Connection to SQL server established.
+6 2026-10-12 21:28:20 CONN A sensor node with 10 has opened a new connection
+7 2026-10-12 21:28:25 DATA The sensor node with 10 reports it's too hot (running avg temperature = 23.3)
+8 2026-10-12 21:28:29 CONN A sensor node with 21 has opened a new connection
+9 2026-10-12 21:28:37 CONN A sensor node with 30 has opened a new connection
+10 2026-10-12 21:28:37 DATA The sensor node with 30 detected motion
+11 2026-10-12 21:28:39 DATA The sensor node with 30 detected motion
+12 2026-10-12 21:28:40 DATA The sensor node with 30 detected motion
+13 2026-10-12 21:28:41 DATA The sensor node with 21 reports it's too humid (running avg humidity = 70.3)
+14 2026-10-12 21:28:41 DATA The sensor node with 30 detected motion
+15 2026-10-12 21:28:43 DATA The sensor node with 30 detected motion
+16 2026-10-12 21:28:44 DATA The sensor node with 30 detected motion
+17 2026-10-12 21:28:46 DATA The sensor node with 30 detected motion
+18 2026-10-12 21:28:46 CONN A sensor node with 50 has opened a new connection
+19 2026-10-12 21:28:48 DATA The sensor node with 30 detected motion
+20 2026-10-12 21:28:49 DATA The sensor node with 30 detected motion
+21 2026-10-12 21:28:50 DATA The sensor node with 30 detected motion
+22 2026-10-12 21:28:51 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 426.0 ppm)
+23 2026-10-12 21:28:52 DATA The sensor node with 30 detected motion
+24 2026-10-12 21:28:53 DATA The sensor node with 30 detected motion
+25 2026-10-12 21:28:55 DATA The sensor node with 30 detected motion
+26 2026-10-12 21:28:56 DATA The sensor node with 30 detected motion
+27 2026-10-12 21:28:59 DATA The sensor node with 10 reports it's too hot (running avg temperature = 21.8)
+28 2026-10-12 21:28:59 DATA The sensor node with 30 detected motion
+29 2026-10-12 21:29:00 DATA The sensor node with 30 detected motion
+30 2026-10-12 21:29:01 DATA The sensor node with 30 detected motion
+31 2026-10-12 21:29:02 DATA The sensor node with 30 detected motion
+32 2026-10-12 21:29:03 DATA The sensor node with 30 detected motion
+33 2026-10-12 21:29:05 DATA The sensor node with 30 detected motion
+34 2026-10-12 21:29:06 DATA The sensor node with 30 detected motion
+35 2026-10-12 21:29:06 CONN A sensor node with 40 has opened a new connection
+36 2026-10-12 21:29:06 DATA The sensor node with 40 reports the door is open
+37 2026-10-12 21:29:07 DATA The sensor node with 30 detected motion
+38 2026-10-12 21:29:07 DATA The sensor node with 40 reports the door is closed
+39 2026-10-12 21:29:09 DATA The sensor node with 40 reports the door is open
+40 2026-10-12 21:29:09 DATA The sensor node with 30 detected motion
+41 2026-10-12 21:29:10 DATA The sensor node with 40 reports the door is closed
+42 2026-10-12 21:29:11 DATA The sensor node with 30 detected motion
+43 2026-10-12 21:29:12 DATA The sensor node with 40 reports the door is open
+44 2026-10-12 21:29:13 DATA The sensor node with 40 reports the door is closed
+45 2026-10-12 21:29:14 DATA The sensor node with 30 detected motion
+46 2026-10-12 21:29:15 DATA The sensor node with 40 reports the door is open
+47 2026-10-12 21:29:15 DATA The sensor node with 30 detected motion
+48 2026-10-12 21:29:17 DATA The sensor node with 40 reports the door is closed
+49 2026-10-12 21:29:17 DATA The sensor node with 30 detected motion
+50 2026-10-12 21:29:18 DATA The sensor node with 40 reports the door is open
+51 2026-10-12 21:29:19 DATA The sensor node with 30 detected motion
+52 2026-10-12 21:29:19 DATA The sensor node with 40 reports the door is closed
+53 2026-10-12 21:29:20 DATA The sensor node with 10 reports it's too hot (running avg temperature = 21.0)
+54 2026-10-12 21:29:20 DATA The sensor node with 30 detected motion
+55 2026-10-12 21:29:21 DATA The sensor node with 40 reports the door is open
+56 2026-10-12 21:29:22 DATA The sensor node with 30 detected motion
+57 2026-10-12 21:29:22 DATA The sensor node with 40 reports the door is closed
+58 2026-10-12 21:29:23 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 382.0 ppm)
+59 2026-10-12 21:29:23 DATA The sensor node with 30 detected motion
+60 2026-10-12 21:29:24 DATA The sensor node with 30 detected motion
+61 2026-10-12 21:29:24 DATA The sensor node with 40 reports the door is open
+62 2026-10-12 21:29:26 DATA The sensor node with 30 detected motion
+63 2026-10-12 21:29:26 DATA The sensor node with 40 reports the door is closed
+64 2026-10-12 21:29:27 DATA The sensor node with 40 reports the door is open
+65 2026-10-12 21:29:28 DATA The sensor node with 30 detected motion
+66 2026-10-12 21:29:29 DATA The sensor node with 40 reports the door is closed
+67 2026-10-12 21:29:29 DATA The sensor node with 30 detected motion
+68 2026-10-12 21:29:31 DATA The sensor node with 40 reports the door is open
+69 2026-10-12 21:29:32 DATA The sensor node with 30 detected motion
+70 2026-10-12 21:29:32 DATA The sensor node with 40 reports the door is closed
+71 2026-10-12 21:29:34 DATA The sensor node with 30 detected motion
+72 2026-10-12 21:29:34 DATA The sensor node with 40 reports the door is open
+73 2026-10-12 21:29:35 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 316.0 ppm)
+74 2026-10-12 21:29:35 DATA The sensor node with 10 reports it's too hot (running avg temperature = 20.5)
+75 2026-10-12 21:29:36 DATA The sensor node with 40 reports the door is closed
+76 2026-10-12 21:29:36 DATA The sensor node with 30 detected motion
+77 2026-10-12 21:29:37 DATA The sensor node with 40 reports the door is open
+78 2026-10-12 21:29:37 DATA The sensor node with 30 detected motion
+79 2026-10-12 21:29:38 DATA The sensor node with 30 detected motion
+80 2026-10-12 21:29:38 DATA The sensor node with 40 reports the door is closed
+81 2026-10-12 21:29:39 DATA The sensor node with 30 detected motion
+82 2026-10-12 21:29:40 DATA The sensor node with 40 reports the door is open
+83 2026-10-12 21:29:41 DATA The sensor node with 30 detected motion
+84 2026-10-12 21:29:42 DATA The sensor node with 40 reports the door is closed
+85 2026-10-12 21:29:42 DATA The sensor node with 30 detected motion
+86 2026-10-12 21:29:43 DATA The sensor node with 30 detected motion
+87 2026-10-12 21:29:44 DATA The sensor node with 40 reports the door is open
+88 2026-10-12 21:29:45 DATA The sensor node with 30 detected motion
+89 2026-10-12 21:29:45 DATA The sensor node with 40 reports the door is closed
+90 2026-10-12 21:29:46 DATA The sensor node with 40 reports the door is open
+91 2026-10-12 21:29:47 DATA The sensor node with 30 detected motion
+92 2026-10-12 21:29:47 DATA The sensor node with 40 reports the door is closed
+93 2026-10-12 21:29:48 DATA The sensor node with 30 detected motion
+94 2026-10-12 21:29:49 DATA The sensor node with 40 reports the door is open
+95 2026-10-12 21:29:50 DATA The sensor node with 30 detected motion
+96 2026-10-12 21:29:51 DATA The sensor node with 40 reports the door is closed
+97 2026-10-12 21:29:51 DATA The sensor node with 30 detected motion
+98 2026-10-12 21:29:53 DATA The sensor node with 40 reports the door is open
+99 2026-10-12 21:29:53 DATA The sensor node with 30 detected motion
+100 2026-10-12 21:29:54 DATA The sensor node with 40 reports the door is closed
+101 2026-10-12 21:29:55 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 303.0 ppm)
+102 2026-10-12 21:29:55 DATA The sensor node with 30 detected motion
+103 2026-10-12 21:29:55 DATA The sensor node with 40 reports the door is open
+104 2026-10-12 21:29:56 DATA The sensor node with 30 detected motion
+105 2026-10-12 21:29:57 DATA The sensor node with 40 reports the door is closed
+106 2026-10-12 21:29:58 DATA The sensor node with 30 detected motion
+107 2026-10-12 21:29:58 DATA The sensor node with 40 reports the door is open
+108 2026-10-12 21:29:59 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 343.0 ppm)
+109 2026-10-12 21:29:59 DATA The sensor node with 40 reports the door is closed
+110 2026-10-12 21:30:00 DATA The sensor node with 30 detected motion
+111 2026-10-12 21:30:00 DATA The sensor node with 40 reports the door is open
+112 2026-10-12 21:30:01 DATA The sensor node with 30 detected motion
+113 2026-10-12 21:30:02 DATA The sensor node with 40 reports the door is closed
+114 2026-10-12 21:30:02 DATA The sensor node with 30 detected motion
+115 2026-10-12 21:30:03 DATA The sensor node with 30 detected motion
+116 2026-10-12 21:30:04 DATA The sensor node with 40 reports the door is open
+117 2026-10-12 21:30:05 DATA The sensor node with 40 reports the door is closed
+118 2026-10-12 21:30:05 DATA The sensor node with 30 detected motion
+119 2026-10-12 21:30:06 DATA The sensor node with 40 reports the door is open
+120 2026-10-12 21:30:07 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 383.0 ppm)
+121 2026-10-12 21:30:07 DATA The sensor node with 30 detected motion
+122 2026-10-12 21:30:07 DATA The sensor node with 40 reports the door is closed
+123 2026-10-12 21:30:08 DATA The sensor node with 40 reports the door is open
+124 2026-10-12 21:30:09 DATA The sensor node with 30 detected motion
+125 2026-10-12 21:30:09 DATA The sensor node with 40 reports the door is closed
+126 2026-10-12 21:30:10 DATA The sensor node with 30 detected motion
+127 2026-10-12 21:30:11 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 358.0 ppm)
+128 2026-10-12 21:30:11 DATA The sensor node with 40 reports the door is open
+129 2026-10-12 21:30:12 DATA The sensor node with 30 detected motion
+130 2026-10-12 21:30:13 DATA The sensor node with 40 reports the door is closed
+131 2026-10-12 21:30:13 DATA The sensor node with 30 detected motion
+132 2026-10-12 21:30:14 DATA The sensor node with 30 detected motion
+133 2026-10-12 21:30:14 DATA The sensor node with 40 reports the door is open
+134 2026-10-12 21:30:15 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 333.0 ppm)
+135 2026-10-12 21:30:16 DATA The sensor node with 30 detected motion
+136 2026-10-12 21:30:16 DATA The sensor node with 40 reports the door is closed
+137 2026-10-12 21:30:17 DATA The sensor node with 30 detected motion
+138 2026-10-12 21:30:18 DATA The sensor node with 40 reports the door is open
+139 2026-10-12 21:30:18 DATA The sensor node with 30 detected motion
+140 2026-10-12 21:30:19 DATA The sensor node with 30 detected motion
+141 2026-10-12 21:30:20 DATA The sensor node with 40 reports the door is closed
+142 2026-10-12 21:30:21 DATA The sensor node with 30 detected motion
+143 2026-10-12 21:30:21 DATA The sensor node with 40 reports the door is open
+144 2026-10-12 21:30:22 DATA The sensor node with 40 reports the door is closed
+145 2026-10-12 21:30:22 DATA The sensor node with 30 detected motion
+146 2026-10-12 21:30:23 DATA The sensor node with 40 reports the door is open
+147 2026-10-12 21:30:24 DATA The sensor node with 30 detected motion
+148 2026-10-12 21:30:25 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 347.0 ppm)
+149 2026-10-12 21:30:25 DATA The sensor node with 30 detected motion
+150 2026-10-12 21:30:25 DATA The sensor node with 40 reports the door is closed
+151 2026-10-12 21:30:26 DATA The sensor node with 30 detected motion
+152 2026-10-12 21:30:27 DATA The sensor node with 30 detected motion
+153 2026-10-12 21:30:27 DATA The sensor node with 40 reports the door is open
+154 2026-10-12 21:30:28 DATA The sensor node with 30 detected motion
+155 2026-10-12 21:30:28 DATA The sensor node with 40 reports the door is closed
+156 2026-10-12 21:30:29 DATA The sensor node with 30 detected motion
+157 2026-10-12 21:30:30 DATA The sensor node with 30 detected motion
+158 2026-10-12 21:30:30 DATA The sensor node with 40 reports the door is open
+159 2026-10-12 21:30:31 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 391.0 ppm)
+160 2026-10-12 21:30:31 DATA The sensor node with 40 reports the door is closed
+161 2026-10-12 21:30:32 DATA The sensor node with 30 detected motion
+162 2026-10-12 21:30:32 DATA The sensor node with 40 reports the door is open
+163 2026-10-12 21:30:33 DATA The sensor node with 40 reports the door is closed
+164 2026-10-12 21:30:33 DATA The sensor node with 30 detected motion
+165 2026-10-12 21:30:35 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 464.0 ppm)
+166 2026-10-12 21:30:35 DATA The sensor node with 40 reports the door is open
+167 2026-10-12 21:30:35 DATA The sensor node with 30 detected motion
+168 2026-10-12 21:30:36 DATA The sensor node with 40 reports the door is closed
+169 2026-10-12 21:30:37 DATA The sensor node with 30 detected motion
+170 2026-10-12 21:30:37 DATA The sensor node with 40 reports the door is open
+171 2026-10-12 21:30:37 DATA The sensor node with 30 detected motion
+172 2026-10-12 21:30:38 DATA The sensor node with 40 reports the door is closed
+173 2026-10-12 21:30:39 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 365.0 ppm)
+174 2026-10-12 21:30:39 DATA The sensor node with 30 detected motion
+175 2026-10-12 21:30:39 DATA The sensor node with 40 reports the door is open
+176 2026-10-12 21:30:41 DATA The sensor node with 40 reports the door is closed
+177 2026-10-12 21:30:41 DATA The sensor node with 30 detected motion
+178 2026-10-12 21:30:43 DATA The sensor node with 30 detected motion
+179 2026-10-12 21:30:43 DATA The sensor node with 40 reports the door is open
+180 2026-10-12 21:30:44 DATA The sensor node with 30 detected motion
+181 2026-10-12 21:30:44 DATA The sensor node with 40 reports the door is closed
+182 2026-10-12 21:30:45 DATA The sensor node with 30 detected motion
+183 2026-10-12 21:30:46 DATA The sensor node with 40 reports the door is open
+184 2026-10-12 21:30:46 DATA The sensor node with 30 detected motion
+185 2026-10-12 21:30:47 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 376.0 ppm)
+186 2026-10-12 21:30:48 DATA The sensor node with 40 reports the door is closed
+187 2026-10-12 21:30:49 DATA The sensor node with 30 detected motion
+188 2026-10-12 21:30:50 DATA The sensor node with 40 reports the door is open
+189 2026-10-12 21:30:50 DATA The sensor node with 30 detected motion
+190 2026-10-12 21:30:51 DATA The sensor node with 30 detected motion
+191 2026-10-12 21:30:51 DATA The sensor node with 40 reports the door is closed
+192 2026-10-12 21:30:52 DATA The sensor node with 30 detected motion
+193 2026-10-12 21:30:53 DATA The sensor node with 30 detected motion
+194 2026-10-12 21:30:53 DATA The sensor node with 40 reports the door is open
+195 2026-10-12 21:30:54 DATA The sensor node with 30 detected motion
+196 2026-10-12 21:30:55 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 384.0 ppm)
+197 2026-10-12 21:30:55 DATA The sensor node with 40 reports the door is closed
+198 2026-10-12 21:30:55 DATA The sensor node with 30 detected motion
+199 2026-10-12 21:30:57 DATA The sensor node with 40 reports the door is open
+200 2026-10-12 21:30:57 DATA The sensor node with 30 detected motion
+201 2026-10-12 21:30:58 DATA The sensor node with 40 reports the door is closed
+202 2026-10-12 21:30:59 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 381.0 ppm)
+203 2026-10-12 21:30:59 DATA The sensor node with 40 reports the door is open
+204 2026-10-12 21:30:59 DATA The sensor node with 30 detected motion
+205 2026-10-12 21:31:00 CONN The sensor node with 40 has closed the connection
+206 2026-10-12 21:31:00 CONN The sensor node with 50 has closed the connection
+207 2026-10-12 21:31:00 CONN The sensor node with 30 has closed the connection
+208 2026-10-12 21:31:00 CONN The sensor node with 21 has closed the connection
+209 2026-10-12 21:31:00 CONN The sensor node with 10 has closed the connection
+210 2026-10-12 21:31:00 MAIN Gateway shutting down (signal)
